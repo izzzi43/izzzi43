@@ -34,7 +34,7 @@ Every project in clusters 1 to 3 was built with this method and is documented in
 - **Creative Engine**: a Python toolchain for AI ad creatives, plus a pipeline dashboard built in three days.
 - **Creator App** (MVP): upload takes, transcribe, let the model propose a cut, render on a serverless worker.
 - **OpenCut and OpenReel forks**: browser video editors I integrated into my dashboard, with a caption editor, word level Whisper timing, colour grading, EDL based auto assembly and an MCP server so agents can edit the timeline. Live: [opencut-zeko.vercel.app](https://opencut-zeko.vercel.app), [openreel-zeko.vercel.app](https://openreel-zeko.vercel.app)
-- **ProPainter RunPod worker**: serverless GPU worker that removes burned-in captions from video. Open source: [propainter-runpod-worker](https://github.com/izzzi43/propainter-runpod-worker)
+- **CaptionWipe**: serverless GPU worker (built on ProPainter and RunPod) that removes burned-in captions from video. Open source: [propainter-runpod-worker](https://github.com/izzzi43/propainter-runpod-worker)
 
 ### 5. E-commerce, product tests and sourcing
 - **Product test app for Shopify**: replaces loose survey links with questionnaires tied to product and order, an EU backend, GDPR deletion and per product scores. Built, pilot pending.
