@@ -1,6 +1,6 @@
-# izzzi · AI Operator for Performance Marketing
+# izzzi · AI Growth Operator
 
-I build AI systems that run real marketing and support work: memory for agents, routines that watch themselves, and tools that keep a human in the loop wherever money or customers are involved. Most of what I build is private client or employer work, so this page describes the projects and links to what can be shown publicly. All results are stated as relative changes, never as company figures.
+I build AI systems, automations and agents that run real marketing, operations and support work: memory for agents, routines that watch themselves, and tools that keep a human in the loop wherever money or customers are involved. Most of what I build is private client or employer work, so this page describes the projects and links to what can be shown publicly. All results are stated as relative changes, never as company figures.
 
 ## Featured: Growth OS
 
