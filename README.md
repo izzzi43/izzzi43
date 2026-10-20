@@ -14,7 +14,7 @@ Every project in clusters 1 to 3 was built with this method and is documented in
 
 ### 1. AI customer support and a custom ticketing system
 - **Custom AI ticketing system** for a D2C support team: a local model classifies requests, drafts answers from order facts, and a review tool hands every draft to a human before anything is sent. Roughly doubled the share of first level requests that are fully resolved, measured by replaying stored runs. Currently in shadow mode.
-- **Read-only MCP server for an in-house order system**: replaced three separate, partly unprotected access paths with one logged, read-only route used by every AI tool. Around seventy attack attempts, no breach.
+- **Read-only MCP server for an in-house order system**: one logged, read-only route that every AI tool uses instead of separate direct connections. Security-reviewed before rollout.
 - **Support and returns analysis**: showed that follow-ups hurt satisfaction far more than waiting time, and traced return spikes and recurring tickets back to fixable causes.
 
 ### 2. Routines and operations
